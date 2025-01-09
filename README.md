@@ -1,1 +1,1 @@
-##Training and validation of a model for parking detection
+Training and validation of a model for parking detection
